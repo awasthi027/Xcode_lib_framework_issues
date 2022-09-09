@@ -1,0 +1,11 @@
+framework module JFrogSDK {
+  umbrella header "JFrogSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module JFrogSDK.Swift {
+    header "JFrogSDK-Swift.h"
+    requires objc
+}
