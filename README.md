@@ -1,6 +1,6 @@
 # SwiftStaticLib
 
-# How to compile in Same. a file and framework file in M1 and Intel Simulator?
+# How to compile in Same. a file or framework file in M1 and Intel Simulator?
 
 1.    When we compile SDK in M1 and Intel system by selecting device will not get any issue. Because device have same architecture for device called arm64 
 2.    We will only face issue in Simulator M1 and Intel. 
@@ -9,7 +9,7 @@
 5.    We can achieve this running few commands
 
 
-# Create framework with release script file 
+# Create framework with release script file path scripts/
 
 1. select universal target(JfrogSDKUni)-> Build
 2. Wait for while .xc framdwork will be created at project path 
