@@ -1,7 +1,7 @@
 #How to consume compiled framework from Jfrog artifactory.
 
 ## Example framework name: JFrogSDK
-## Local host, Install Jfron on local machine
+## Local host, Install Jfrog on local machine
 
  ## Step 1. Create artifactory repository: Create new local repository ->Put repository key 
 
